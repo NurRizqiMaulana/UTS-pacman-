@@ -1,0 +1,8 @@
+
+Algoritma greedy berasal dari bahasa inggris, yang berarti tamak atau rakus. Algoritma greedy merupakan jenis algoritma yang menggunakan pendekatan penyelesaian masalah dengan mencari nilai optimum pada setiap langkahnya. Nilai optimum ini dikenal dengan istilah local optimum. Dengan harapan bahwa langkah sisanya mengarah ke solusi optimum global (Global optimum). Pada banyak kasus algoritma greedy tidak akan menghasilkan solusi paling optimal, akan tetapi algoritma greedy biasanya memberikan solusi yang mendekati nilai optimum dalam waktu yang cukup cepat. Oleh karena itu, pada setiap langkah diperlukan keputusan terbaik dalam menentukan pilihan.
+Contoh implementasi dikehidupan nyata yang menggunakan prinsip greedy:
+
+– Memilih beberapa jenis investasi (penanaman modal)
+– Mencari jalur tersingkat dari Bandung ke Surabaya
+– Memilih jurusan di Perguruan Tinggi
+– Bermain kartu remi
